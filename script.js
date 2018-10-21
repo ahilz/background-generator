@@ -4,6 +4,7 @@ var color2 = document.querySelector(".color2");
 var body = document.getElementById("bg");
 var button = document.getElementById("button1");
 // console.log (button);
+//console log
 
 // body.style.background = "red";
 function buttonPress(){
